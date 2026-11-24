@@ -1,0 +1,93 @@
+STYLEHAUS_ID,URBANTHREAD_ID,STYLEHAUS_NAME,URBANTHREAD_NAME,STYLEHAUS_BRAND,URBANTHREAD_BRAND,STYLEHAUS_COLOR,URBANTHREAD_COLOR,STYLEHAUS_SIZE,URBANTHREAD_SIZE,SIMILARITY_SCORE
+SH-RAY-AVIATOR-GLD,UT-1021,Ray-Ban Aviator Classic - Gold,RAY BAN AVIATOR GOLD GREEN,Ray-Ban,RAY-BAN,Gold/Green,Gold/Green,58MM,58MM,0.9571
+SH-AD-SAMBA-WHT-8,UT-1005,Adidas Samba OG - White/Green,Adidas Samba OG White Green,Adidas,ADIDAS,White/Green,White/Green,8,US 8,0.9466
+SH-NB-990V6-GRY-10,UT-1006,New Balance 990v6 - Grey,NEW BALANCE 990V6 GREY MADE IN USA,New Balance,NEW BALANCE,Grey,Grey,10,US 10,0.9397
+SH-NK-DUNK-PND-9,UT-1012,Nike Dunk Low - Panda,Nike Dunk Low Panda White Black,Nike,NIKE,White/Black,White/Black,9,US 9,0.9385
+SH-VANS-OLD-BLK-9,UT-1015,Vans Old Skool - Black/White,VANS OLD SKOOL BLACK WHITE,Vans,VANS,Black/White,Black/White,9,US 9,0.9316
+SH-AD-GAZELLE-BLK-9,UT-1013,Adidas Gazelle - Black/White,ADIDAS GAZELLE BLACK WHITE,Adidas,ADIDAS,Black/White,Black/White,9,US 9,0.9304
+SH-UGG-CLASSIC-CHE-7W,UT-1024,UGG Classic Short II - Chestnut (W),UGG CLASSIC SHORT CHESTNUT W7,UGG,UGG,Chestnut,Chestnut,7,US 7,0.9282
+SH-RLX-POLO-NVY-M,UT-1009,Ralph Lauren Classic Fit Polo - Navy,Ralph Lauren Polo Shirt Navy M,Ralph Lauren,RALPH LAUREN,Navy,Navy Blue,M,M,0.926
+SH-NK-AM90-WHT-10,UT-1001,Nike Air Max 90 - White/Black,NIKE AIRMAX 90 WHITE BLACK,Nike,NIKE,White/Black,White/Blk,10,US 10,0.9252
+SH-NK-AM90-WHT-11,UT-1001,Nike Air Max 90 - White/Black,NIKE AIRMAX 90 WHITE BLACK,Nike,NIKE,White/Black,White/Blk,11,US 10,0.9231
+SH-DOC-1460-BLK-10,UT-1018,Dr. Martens 1460 Boot - Black,Dr Martens 1460 8 Eye Boot Black,Dr. Martens,DR MARTENS,Black Smooth,Black,10,US 10,0.9209
+SH-TIMB-6IN-WHT-10,UT-1023,Timberland 6-Inch Premium Boot - Wheat,TIMBERLAND 6 INCH BOOT WHEAT,Timberland,TIMBERLAND,Wheat Nubuck,Wheat,10,US 10,0.92
+SH-AD-STAN-WHT-9,UT-1029,Adidas Stan Smith - White/Green,Adidas Stan Smith White Green,Adidas,ADIDAS,White/Green,White/Green,9,US 9,0.9195
+SH-NK-JORDAN1-RED-10,UT-1022,Air Jordan 1 Retro High OG - Red/Black,Nike Air Jordan 1 Retro Bred,Nike,NIKE,Varsity Red/Black,Red/Black,10,US 10,0.9192
+SH-NK-TECH-BLK-L,UT-1017,Nike Sportswear Tech Fleece Joggers - Black,NIKE TECH FLEECE JOGGER BLACK L,Nike,NIKE,Black,Black,L,L,0.9183
+SH-DICKIES-874-BLK-32,UT-1030,Dickies 874 Original Fit Work Pant - Black,DICKIES 874 WORK PANT BLACK 32,Dickies,DICKIES,Black,Black,32X30,32X30,0.9143
+SH-PTG-BTRSNP-GRY-L,UT-1011,Patagonia Better Sweater - Grey,PATAGONIA BETTER SWEATER FLEECE GREY L,Patagonia,PATAGONIA,Stonewash Grey,Grey,L,L,0.9111
+SH-CHAMPION-CREW-GRY-L,UT-1026,Champion Reverse Weave Crew - Grey,CHAMPION REVERSE WEAVE CREWNECK GREY L,Champion,CHAMPION,Oxford Grey,Grey,L,L,0.9091
+SH-TNF-NUPTSE-BLK-L,UT-1010,The North Face 1996 Retro Nuptse - Black,THE NORTH FACE NUPTSE 1996 BLACK L,The North Face,THE NORTH FACE,Tnf Black,Black,L,L,0.903
+SH-CANADA-CHIL-BLK-L,UT-1025,Canada Goose Chilliwack Bomber - Black,Canada Goose Chilliwack Bomber Black L,Canada Goose,CANADA GOOSE,Black,Black,L,L,0.9026
+SH-RLX-POLO-WHT-L,UT-1009,Ralph Lauren Classic Fit Polo - White,Ralph Lauren Polo Shirt Navy M,Ralph Lauren,RALPH LAUREN,White,Navy Blue,L,M,0.9003
+SH-REEBOK-CLUB-WHT-10,UT-1027,Reebok Club C 85 - White,REEBOK CLUB C 85 WHITE GREEN,Reebok,REEBOK,White/Green,White/Green,10,US 10,0.8968
+SH-PMA-SUEDE-NVY-10,UT-1014,Puma Suede Classic XXI - Navy,Puma Suede Classic Navy White,Puma,PUMA,Navy/White,Navy/White,10,US 10,0.8936
+SH-AD-UB22-GRY-9,UT-1004,Adidas Ultraboost 22 - Grey,ADIDAS ULTRABOOST 22 GREY WHITE,Adidas,ADIDAS,Grey/White,Grey/White,9,US 9,0.8871
+SH-NK-AM90-WHT-11,UT-1002,Nike Air Max 90 - White/Black,NIKE AIRMAX 90 WHT BLK,Nike,NIKE,White/Black,White/Black,11,US 11,0.8777
+SH-NK-AM90-WHT-10,UT-1002,Nike Air Max 90 - White/Black,NIKE AIRMAX 90 WHT BLK,Nike,NIKE,White/Black,White/Black,10,US 11,0.8761
+SH-CONV-CT-WHT-10,UT-1016,Converse Chuck Taylor All Star - White,Converse Chuck Taylor Hi White,Converse,CONVERSE,Optical White,White,10,US 10,0.8703
+SH-NK-AF1-BLK-10,UT-1003,Nike Air Force 1 '07 - Black,Nike AirForce 1 07 White,Nike,NIKE,Black,White,10,US 9,0.8686
+SH-LV-TRUCKER-BLU,UT-1008,Levi's Trucker Jacket - Medium Wash,LEVIS TRUCKER JKT MEDIUM BLUE,Levi's,LEVIS,Medium Stonewash,Medium Wash,L,L,0.8545
+SH-TNF-NUPTSE-RED-M,UT-1010,The North Face 1996 Retro Nuptse - Red,THE NORTH FACE NUPTSE 1996 BLACK L,The North Face,THE NORTH FACE,Tnf Red,Black,M,L,0.8537
+SH-LV-501-IND-32,UT-1007,Levi's 501 Original Fit Jeans,Levis 501 Original Jeans Indigo,Levi's,LEVIS,Indigo Rinse,Indigo,32X30,32X30,0.852
+SH-BARBOUR-BEDALE-OLV-M,UT-2024,Barbour Bedale Wax Jacket - Olive,BARBOUR ASHBY WAX JACKET OLIVE L,Barbour,BARBOUR,Olive,Olive,M,L,0.8508
+SH-HOKA-CB9-BLK-10,UT-1028,HOKA Clifton 9 - Black,HOKA Clifton 9 Black White,HOKA,HOKA ONE ONE,Black/White,Black/White,10,US 10,0.8467
+SH-ON-CLOUD5-WHT-10,UT-2017,On Cloud 5 - All White,ON CLOUDMONSTER BLACK WHITE 10,On,ON,All White,Black/White,10,US 10,0.8433
+SH-VANS-OLD-BLK-9,UT-2013,Vans Old Skool - Black/White,VANS SK8-HI BLACK WHITE 10,Vans,VANS,Black/White,Black/White,9,US 10,0.8387
+SH-FJALL-KNKN-GRN,UT-1020,Fjallraven Kanken Backpack - Green,Fjallraven Kanken Backpack Green,Fjallraven,FJALLRAVEN,Spruce Green,Green,ONE SIZE,ONE SIZE,0.8385
+SH-BIRK-ARIZ-BRN-42,UT-1019,Birkenstock Arizona - Brown,BIRKENSTOCK ARIZONA HABANA BROWN 42,Birkenstock,BIRKENSTOCK,Habana Brown,Habana,42,42,0.8383
+SH-SAUCONY-RIDE-BLU-10,UT-2031,Saucony Ride 16 - Blue,Saucony Kinvara 14 White Orange 10,Saucony,SAUCONY,Blue/White,White/Orange,10,US 10,0.8297
+SH-SALOMON-XT6-BLK-10,UT-2016,Salomon XT-6 - Black,Salomon Speedcross 6 Trail Black 10,Salomon,SALOMON,Black/Phantom,Black,10,US 10,0.8255
+SH-AD-UB22-BLK-10,UT-1004,Adidas Ultraboost 22 - Black,ADIDAS ULTRABOOST 22 GREY WHITE,Adidas,ADIDAS,Core Black,Grey/White,10,US 9,0.8182
+SH-NK-AF1-BLK-10,UT-1001,Nike Air Force 1 '07 - Black,NIKE AIRMAX 90 WHITE BLACK,Nike,NIKE,Black,White/Blk,10,US 10,0.8174
+SH-NK-AF1-WHT-9,UT-1003,Nike Air Force 1 '07 - White,Nike AirForce 1 07 White,Nike,NIKE,White,White,9,US 9,0.816
+SH-FJALL-KNKN-PNK,UT-1020,Fjallraven Kanken Backpack - Pink,Fjallraven Kanken Backpack Green,Fjallraven,FJALLRAVEN,Flamingo Pink,Green,ONE SIZE,ONE SIZE,0.8116
+SH-ASICS-GEL-GRY-10,UT-2015,ASICS Gel-Kayano 30 - Grey,ASICS GEL-NIMBUS 25 BLUE 10,ASICS,ASICS,Sheet Rock/Grey,Blue/Silver,10,US 10,0.8055
+SH-RLX-OXFORD-BLU-M,UT-1009,Ralph Lauren Oxford Shirt - Blue,Ralph Lauren Polo Shirt Navy M,Ralph Lauren,RALPH LAUREN,Blue,Navy Blue,M,M,0.8016
+SH-NK-VAPORMAX-BLK-10,UT-1001,Nike Air VaporMax Plus - Black,NIKE AIRMAX 90 WHITE BLACK,Nike,NIKE,Black/Dark Grey,White/Blk,10,US 10,0.8003
+SH-NK-AM90-WHT-10,UT-1003,Nike Air Max 90 - White/Black,Nike AirForce 1 07 White,Nike,NIKE,White/Black,White,10,US 9,0.8001
+SH-TH-CREW-NVY-L,UT-2005,Tommy Hilfiger Crew Neck Sweater - Navy,TOMMY HILFIGER FLAG LOGO TEE WHITE M,Tommy Hilfiger,TOMMY HILFIGER,Navy Blazer,White,L,M,0.7995
+SH-NK-AM90-WHT-11,UT-1003,Nike Air Max 90 - White/Black,Nike AirForce 1 07 White,Nike,NIKE,White/Black,White,11,US 9,0.7964
+SH-NK-AF1-BLK-10,UT-1002,Nike Air Force 1 '07 - Black,NIKE AIRMAX 90 WHT BLK,Nike,NIKE,Black,White/Black,10,US 11,0.772
+SH-AD-UB22-BLK-10,UT-2010,Adidas Ultraboost 22 - Black,Adidas NMD R1 Core Black 10,Adidas,ADIDAS,Core Black,Core Black,10,US 10,0.77
+SH-NK-AM97-SLV-8W,UT-1001,Nike Air Max 97 - Silver Bullet (W),NIKE AIRMAX 90 WHITE BLACK,Nike,NIKE,Metallic Silver,White/Blk,8,US 10,0.7677
+SH-RLX-POLO-NVY-M,UT-2006,Ralph Lauren Classic Fit Polo - Navy,Polo Ralph Lauren Cable Knit Sweater Navy L,Ralph Lauren,RALPH LAUREN,Navy,Navy,M,L,0.7611
+SH-NK-AM97-SLV-8W,UT-1002,Nike Air Max 97 - Silver Bullet (W),NIKE AIRMAX 90 WHT BLK,Nike,NIKE,Metallic Silver,White/Black,8,US 11,0.7582
+SH-BROOKS-GH20-BLU-10,UT-2007,Brooks Ghost 15 - Blue,BROOKS GLYCERIN 20 BLUE 10,Brooks,BROOKS,Blue/Nightlife,Blue/White,10,US 10,0.7563
+SH-RLX-POLO-WHT-L,UT-2006,Ralph Lauren Classic Fit Polo - White,Polo Ralph Lauren Cable Knit Sweater Navy L,Ralph Lauren,RALPH LAUREN,White,Navy,L,L,0.755
+SH-NK-AF1-BLK-10,UT-1022,Nike Air Force 1 '07 - Black,Nike Air Jordan 1 Retro Bred,Nike,NIKE,Black,Red/Black,10,US 10,0.7513
+SH-CR-VNECK-GRN-M,UT-2030,Carhartt WIP Chase V-Neck Tee - Green,CARHARTT WIP CHASE HOODIE GREY L,Carhartt WIP,CARHARTT WIP,Dark Green,Grey Heather,M,L,0.7467
+SH-NK-VAPORMAX-BLK-10,UT-1002,Nike Air VaporMax Plus - Black,NIKE AIRMAX 90 WHT BLK,Nike,NIKE,Black/Dark Grey,White/Black,10,US 11,0.7445
+SH-NK-AF1-WHT-9,UT-1001,Nike Air Force 1 '07 - White,NIKE AIRMAX 90 WHITE BLACK,Nike,NIKE,White,White/Blk,9,US 10,0.7442
+SH-AD-FORUM-WHT-7W,UT-1002,Adidas Forum Low - White (W),NIKE AIRMAX 90 WHT BLK,Adidas,NIKE,Cloud White,White/Black,7,US 11,0.7424
+SH-UNDER-TECH-GRY-L,UT-2012,Under Armour Tech 2.0 Tee - Grey,Lululemon Metal Vent Tech SS Grey L,Under Armour,LULULEMON,Pitch Grey,Slate Grey,L,L,0.7408
+SH-BROOKS-GH20-BLU-10,UT-2015,Brooks Ghost 15 - Blue,ASICS GEL-NIMBUS 25 BLUE 10,Brooks,ASICS,Blue/Nightlife,Blue/Silver,10,US 10,0.7383
+SH-NK-PEGASUS-BLU-10,UT-1001,Nike Pegasus 41 - Blue,NIKE AIRMAX 90 WHITE BLACK,Nike,NIKE,Thunder Blue,White/Blk,10,US 10,0.7383
+SH-AD-FORUM-WHT-7W,UT-1001,Adidas Forum Low - White (W),NIKE AIRMAX 90 WHITE BLACK,Adidas,NIKE,Cloud White,White/Blk,7,US 10,0.7356
+SH-AD-UB22-GRY-9,UT-2010,Adidas Ultraboost 22 - Grey,Adidas NMD R1 Core Black 10,Adidas,ADIDAS,Grey/White,Core Black,9,US 10,0.7345
+SH-LV-511-BLK-34,UT-1007,Levi's 511 Slim Fit Jeans - Black,Levis 501 Original Jeans Indigo,Levi's,LEVIS,Black,Indigo,34X32,32X30,0.7328
+SH-NB-550-WHT-9,UT-1022,New Balance 550 - White/Green,Nike Air Jordan 1 Retro Bred,New Balance,NIKE,White/Green,Red/Black,9,US 10,0.7322
+SH-NK-AM90-WHT-10,UT-1022,Nike Air Max 90 - White/Black,Nike Air Jordan 1 Retro Bred,Nike,NIKE,White/Black,Red/Black,10,US 10,0.7177
+SH-AD-UB22-GRY-9,UT-2008,Adidas Ultraboost 22 - Grey,New Balance Fresh Foam X 1080v13 Grey 10,Adidas,NEW BALANCE,Grey/White,Grey/Blue,9,US 10,0.7176
+SH-GUCCI-ACE-WHT-9,UT-2021,Gucci Ace Sneaker - White,Lacoste Carnaby Pro Leather White 10,Gucci,LACOSTE,White,White,9,US 10,0.7173
+SH-NK-AM90-WHT-10,UT-2017,Nike Air Max 90 - White/Black,ON CLOUDMONSTER BLACK WHITE 10,Nike,ON,White/Black,Black/White,10,US 10,0.7163
+SH-NK-AM90-WHT-11,UT-1022,Nike Air Max 90 - White/Black,Nike Air Jordan 1 Retro Bred,Nike,NIKE,White/Black,Red/Black,11,US 10,0.7158
+SH-NK-AM90-WHT-11,UT-2017,Nike Air Max 90 - White/Black,ON CLOUDMONSTER BLACK WHITE 10,Nike,ON,White/Black,Black/White,11,US 10,0.713
+SH-AD-FORUM-WHT-7W,UT-1003,Adidas Forum Low - White (W),Nike AirForce 1 07 White,Adidas,NIKE,Cloud White,White,7,US 9,0.713
+SH-NK-AM90-WHT-10,UT-2008,Nike Air Max 90 - White/Black,New Balance Fresh Foam X 1080v13 Grey 10,Nike,NEW BALANCE,White/Black,Grey/Blue,10,US 10,0.7125
+SH-HM-SLIM-TEE-WHT-M,UT-2005,H&M Slim Fit T-Shirt - White,TOMMY HILFIGER FLAG LOGO TEE WHITE M,H&M,TOMMY HILFIGER,White,White,M,M,0.7112
+SH-RAY-AVIATOR-GLD,UT-2040,Ray-Ban Aviator Classic - Gold,OAKLEY HOLBROOK MATTE BLACK,Ray-Ban,OAKLEY,Gold/Green,Matte Black,58MM,ONE SIZE,0.7104
+SH-RAY-WAYF-BLK,UT-1021,Ray-Ban Original Wayfarer - Black,RAY BAN AVIATOR GOLD GREEN,Ray-Ban,RAY-BAN,Black/Green,Gold/Green,54MM,58MM,0.7103
+SH-NB-550-WHT-9,UT-1002,New Balance 550 - White/Green,NIKE AIRMAX 90 WHT BLK,New Balance,NIKE,White/Green,White/Black,9,US 11,0.7096
+SH-NK-AM90-WHT-11,UT-2008,Nike Air Max 90 - White/Black,New Balance Fresh Foam X 1080v13 Grey 10,Nike,NEW BALANCE,White/Black,Grey/Blue,11,US 10,0.7093
+SH-BROOKS-GH20-BLU-10,UT-2008,Brooks Ghost 15 - Blue,New Balance Fresh Foam X 1080v13 Grey 10,Brooks,NEW BALANCE,Blue/Nightlife,Grey/Blue,10,US 10,0.7057
+SH-NK-JORDAN1-RED-10,UT-1001,Air Jordan 1 Retro High OG - Red/Black,NIKE AIRMAX 90 WHITE BLACK,Nike,NIKE,Varsity Red/Black,White/Blk,10,US 10,0.7055
+SH-AD-SAMBA-WHT-8,UT-1029,Adidas Samba OG - White/Green,Adidas Stan Smith White Green,Adidas,ADIDAS,White/Green,White/Green,8,US 9,0.7049
+SH-GAP-HOODIE-GRY-L,UT-1026,Gap Logo Pullover Hoodie - Grey,CHAMPION REVERSE WEAVE CREWNECK GREY L,Gap,CHAMPION,Heather Grey,Grey,L,L,0.7046
+SH-BOSS-DRESS-WHT-16,UT-2022,Hugo Boss Slim Fit Dress Shirt - White,BOSS SLIM FIT CHINO NAVY 32,Hugo Boss,HUGO BOSS,White,Navy,16/34,32X32,0.7043
+SH-BROOKS-GH20-BLU-10,UT-2017,Brooks Ghost 15 - Blue,ON CLOUDMONSTER BLACK WHITE 10,Brooks,ON,Blue/Nightlife,Black/White,10,US 10,0.7038
+SH-NK-PEGASUS-BLU-10,UT-2015,Nike Pegasus 41 - Blue,ASICS GEL-NIMBUS 25 BLUE 10,Nike,ASICS,Thunder Blue,Blue/Silver,10,US 10,0.7035
+SH-AD-FORUM-WHT-7W,UT-1012,Adidas Forum Low - White (W),Nike Dunk Low Panda White Black,Adidas,NIKE,Cloud White,White/Black,7,US 9,0.7035
+SH-NB-550-WHT-9,UT-1012,New Balance 550 - White/Green,Nike Dunk Low Panda White Black,New Balance,NIKE,White/Green,White/Black,9,US 9,0.7027
+SH-NB-550-WHT-9,UT-1001,New Balance 550 - White/Green,NIKE AIRMAX 90 WHITE BLACK,New Balance,NIKE,White/Green,White/Blk,9,US 10,0.7007
+SH-TNF-NUPTSE-RED-M,UT-2003,The North Face 1996 Retro Nuptse - Red,NORTH FACE THERMOBALL ECO JACKET NAVY M,The North Face,THE NORTH FACE,Tnf Red,Navy,M,M,0.7002

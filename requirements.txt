@@ -1,0 +1,15 @@
+pandas
+numpy
+snowflake-connector-python[pandas]
+python-dotenv
+rapidfuzz
+sentence-transformers
+scikit-learn
+fastapi
+uvicorn
+pydantic
+pytest
+httpx
+fastapi
+uvicorn
+snowflake-connector-python
